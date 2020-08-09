@@ -86,7 +86,8 @@ render(){
   return(
 
       <div className="app"> 
-        <h2>Welcome to my App</h2>
+        <h2>ThoughtPost</h2>
+        <h3>Share your thoughts and I'll share mine</h3>
         <form onSubmit={this.submit}>
           <div className="form-input">
             <input type="text" name="title" placeholder="Title" value={this.state.title} onChange={this.handleChange} />
