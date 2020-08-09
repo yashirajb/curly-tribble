@@ -1,0 +1,41 @@
+.app {
+  padding: 10px;
+}
+
+.form {
+  width: 50%;
+}
+
+.form-input{
+  margin: 10px 0px; 
+}
+
+.form-input input, .form-input textarea {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  border: 1 px solid lightgrey; 
+  outline: none; 
+}
+
+button {
+  background-color: lightseagreen;
+  color: #fff;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  cursor: pointer;
+  outline: none; 
+}
+
+
+
+.blog-post_display{
+  border: 1px solid lightcoral;
+  margin: 5px 0px;
+  border-radius: 4px;
+  padding: 10px;
+}
