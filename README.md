@@ -1,4 +1,4 @@
-## Mern Stack App
+## Mern Stack App ##
 
 ### Terminal: 
 
