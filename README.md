@@ -254,4 +254,4 @@ A note about the script names: The names of scripts "build" and "heroku-postbuil
 
 14. To do this, ran command heroku addons:create mongolab:sandbox in terminal. To check that addon was created successfully I ran heroku addons --all in the terminal and ⬢ mernappyashira was listed as having an addon. 
 
-15. Added everything to git and ran Heroku locally first before pushing it to Heroku officially by typing heroku local in the command line 
+15. Added everything to git and ran Heroku locally first before pushing it to Heroku officially by typing heroku local in the command line
